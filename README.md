@@ -9,7 +9,7 @@ I'm studying Computer Science who are willing to learn coding!
 * 🌍  I'm based in San Jose
 * ✉️  You can contact me at [danhpcd2016@gmail.com](mailto:danhpcd2016@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithms
-* ⚡  I'm trying to create personal projects
+* ⚡  I'm trying to make some technical personal projects
 
 ### Skills
 
