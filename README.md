@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danh C Pham
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danh Cong Pham
 ===================================================================================================================================
 
 Computer Science senior student in San Francisco State University
@@ -8,8 +8,8 @@ I'm studying Computer Science who are willing to learn coding!
 
 * 🌍  I'm based in San Jose
 * ✉️  You can contact me at [danhpham1104@gmail.com](mailto:danhpham1104@gmail.com)
-* 🧠  I'm currently in progress of completing 10 Udemy courses that useful for my academic in Computer Science, including DSA, Software Development, API, Database,etc...
-* ⚡  I'm learning and praticing with different challenging and interesting projects
+* 🧠  I'm currently in progress of completing 10 Udemy courses that useful for my academic in Computer Science, including DSA, Software Development, API, Database,etc...Hopefully, after this summer, I will be able to have a solid foundational knowledge about the world of sofware engineering.
+* ⚡  I'm learning and praticing with different challenging and interesting projects.
 
 ### Skills
 
