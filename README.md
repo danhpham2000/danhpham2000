@@ -8,7 +8,7 @@ I'm studying Computer Science and I am willing to learn coding!
 
 * 🌍  I'm living in San Jose, California.
 * ✉️  You can contact me at [danhpham1104@gmail.com](mailto:danhpham1104@gmail.com).
-* 🧠  I'm currently completing 10 Udemy courses that are useful for my academic in Computer Science, including DSA, Software Development, API, Database,etc...Hopefully, after this summer, I will be able to have a solid foundational knowledge about the world of sofware engineering.
+* 🧠  I'm currently completing several Udemy courses that are useful for my academic in Computer Science, including DSA, Software Development, API, Database,etc...Hopefully, after this summer, I will be able to have a solid foundational knowledge about the world of sofware engineering.
 * ⚡  I'm learning and practicing with different challenging and interesting projects.
 
 
