@@ -10,6 +10,7 @@ I'm studying Computer Science and I am willing to learn coding!
 * ✉️  You can contact me at [danhpham1104@gmail.com](mailto:danhpham1104@gmail.com).
 * 🧠  I'm currently completing several Udemy courses that are useful for my academic in Computer Science, including DSA, Software Development, API, Database,etc...Hopefully, after this summer, I will be able to have a solid foundational knowledge about the world of sofware engineering.
 * ⚡  I'm learning and practicing with different challenging and interesting projects.
+* I am currently working as software engineer in both internship and open source contributor.
 
 ### Skills
 
