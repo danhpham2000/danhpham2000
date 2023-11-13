@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working in Life Stages as Software Engineering Intern focusing on backend development<br>👯 I’m looking to collaborate on open-source and portfolio projects<br>🌱 I’m currently learning and earning data science certification<br>💬 Ask me about my experience and skills<br>⚡ Fun fact about me is I am having amazing memory
+🔭 I'm currently working in Life Stages as Software Engineering Intern focusing on backend development<br>👯 I’m looking to collaborate on open-source and portfolio projects<br>💬 Ask me about my experience and skills<br>⚡ Fun fact about me is I am having amazing memory
 
 
 ## 🌐 Socials:
