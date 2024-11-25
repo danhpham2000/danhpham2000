@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently working at Life Stages as Software Engineering Intern focusing on backend development. Our teck stack is React Native, NodeJS, ExpressJS, and Google Firebase.<br>👯 I’m looking to collaborate on open-source and portfolio projects especially in full-stack development.<br>💬 You can ask me about my experience and skills.<br>⚡ Fun fact about me is I have an amazing memory.
+🔭I am currently a Computer Science undegraduate student in San Francisco  State University graduating in Fall 2024, and also seeking a full-time job as a software engineer 
+<br>👯 I’m currently building 10 software engineering projects in various fields (IOT devices and hackathon projects). I am aiming to complete half of them at the end of this year before starting 2025. 
+<br>💬 You can send me message through my linkedin above or email me at: <a>danhpham1104@gmail.com</a>
+<br>⚡ Fun fact about me is I have an amazing memory, and I can learn new technology in a short period of time
 
 
 ## 🌐 Socials:
