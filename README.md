@@ -3,8 +3,7 @@
 <br>👯 I’m currently building 10 software engineering projects in various fields (IOT devices and hackathon projects). I am aiming to complete half of them at the end of this year before starting 2025. 
 <br>💬 You can send me message through my linkedin above or email me at: <a>danhpham1104@gmail.com</a>
 <br>⚡ Fun fact about me is I have an amazing memory, and I can learn new technology in a short period of time
-
-<a href="https://gitroll.io/profile/uU1xxMmjAYMgdZVCTULxfzLh0ChJ3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uU1xxMmjAYMgdZVCTULxfzLh0ChJ3?theme=light" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uU1xxMmjAYMgdZVCTULxfzLh0ChJ3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uU1xxMmjAYMgdZVCTULxfzLh0ChJ3?theme=solarizedDark" alt="GitRoll Profile Badge"/></a>
 
 
 ## 🌐 Socials:
