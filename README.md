@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭I am currently a Computer Science undegraduate student in San Francisco  State University graduating in Fall 2024, and also seeking a full-time job as a software engineer 
-<br>👯 I’m currently building 10 software engineering projects in various fields (IOT devices and hackathon projects). I am aiming to complete half of them at the end of this year before starting 2025. 
-<br>💬 You can send me message through my linkedin above or email me at: <a>danhpham1104@gmail.com</a>
-<br>⚡ Fun fact about me is I have an amazing memory, and I can learn new technology in a short period of time
+🔭I am a graduated Computer Science  student at San Francisco State University with a BS in Computer Science, and also seeking a full-time job as a software engineer 
+<br>👯 I am actively learning and exploring various open-source technologies such as SaSS, PaSS, and IaS by building projects.
+<br>💬 You can send me a message through my LinkedIn above or email me at: <a>danhpham1104@gmail.com</a>
+<br>⚡ Fun fact about me is I have an amazing memory, and I can learn new technology in a short period
 
 <a href="https://gitroll.io/profile/uU1xxMmjAYMgdZVCTULxfzLh0ChJ3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uU1xxMmjAYMgdZVCTULxfzLh0ChJ3?theme=solarizedDark" alt="GitRoll Profile Badge"/></a>
 
