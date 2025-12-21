@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭I am a graduated Computer Science  student at San Francisco State University with a BS in Computer Science, and also seeking a full-time job as a software engineer 
-<br>👯 I am actively learning and exploring various open-source technologies such as SaSS, PaSS, and IaS by building projects.
-<br>💬 You can send me a message through my LinkedIn above or email me at: <a>danhpham1104@gmail.com</a>
-<br>⚡ Fun fact about me is I have an amazing memory, and I can learn new technology in a short period
+🔭 Computer Science graduate from San Francisco State University with hands-on experience building and shipping AI-powered, full-stack systems in startup environments 
+<br>👯 Cofounder & CTO of an AI tutoring platform, leading end-to-end development (Next.js, NestJS, Python, cloud), onboarding 20+ tutors, and acquiring paying users within weeks.
+<br>Software engineering intern experience delivering production features across React, FastAPI, cloud infrastructure, and authentication systems, with measurable improvements to reliability and performance</a>
+<br>⚡ Seeking a full-time software engineering role focused on ownership, execution, and building scalable, real-world systems
 
 <a href="https://gitroll.io/profile/uU1xxMmjAYMgdZVCTULxfzLh0ChJ3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uU1xxMmjAYMgdZVCTULxfzLh0ChJ3?theme=solarizedDark" alt="GitRoll Profile Badge"/></a>
 
