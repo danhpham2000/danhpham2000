@@ -1,7 +1,13 @@
 # 💫 About Me:
-🔭 Computer Science graduate from San Francisco State University with hands-on experience building and shipping AI-powered, full-stack systems in startup environments 
+🔭 Computer Science graduate from San Francisco State University with hands-on experience building and shipping AI-powered, full-stack systems in startup environments
+
+
 <br>👯 Cofounder & CTO of an AI tutoring platform, leading end-to-end development (Next.js, NestJS, Python, cloud), onboarding 20+ tutors, and acquiring paying users within weeks.
+
+
 <br>⚡ Software engineering intern experience delivering production features across React, FastAPI, cloud infrastructure, and authentication systems, with measurable improvements to reliability and performance</a>
+
+
 <br>⚡ Seeking a full-time software engineering role focused on ownership, execution, and building scalable, real-world systems
 
 <a href="https://gitroll.io/profile/uU1xxMmjAYMgdZVCTULxfzLh0ChJ3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uU1xxMmjAYMgdZVCTULxfzLh0ChJ3?theme=solarizedDark" alt="GitRoll Profile Badge"/></a>
