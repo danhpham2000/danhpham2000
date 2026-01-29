@@ -10,7 +10,6 @@
 
 <br>⚡ Seeking a full-time software engineering role focused on ownership, execution, and building scalable, real-world systems
 
-<a href="https://gitroll.io/profile/uU1xxMmjAYMgdZVCTULxfzLh0ChJ3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uU1xxMmjAYMgdZVCTULxfzLh0ChJ3?theme=solarizedDark" alt="GitRoll Profile Badge"/></a>
 
 
 ## 🌐 Socials:
