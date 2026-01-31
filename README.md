@@ -11,7 +11,7 @@
 <br>⚡ Seeking a full-time software engineering role focused on ownership, execution, and building scalable, real-world systems
 
 <h2>Projects</h2>
-- <a href="https://document-summarizer-git-main-danh-phams-projects.vercel.app/">DocSum</a>: AI tool that lets users query documents and get concise, context-aware answers
+- <a href="https://document-summarizer-git-main-danh-phams-projects.vercel.app/">DocSum</a>: AI tool that lets users query documents and get concise, context-aware answers<br/>
 - <a>ModelRace</a>: Real-time LLM latency benchmarking across leading inference providers. (Not done)
 
 ## 🌐 Socials:
