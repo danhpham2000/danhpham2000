@@ -10,10 +10,6 @@
 
 <br>⚡ Seeking a full-time software engineering role focused on ownership, execution, and building scalable, real-world systems
 
-<h2>Projects</h2>
-- <a href="https://document-summarizer-git-main-danh-phams-projects.vercel.app/">DocSum</a>: AI tool that lets users query documents and get concise, context-aware answers<br/>
-- <a href="https://model-race-ten.vercel.app/">ModelRace</a>: Real-time LLM latency benchmarking across leading inference providers. <br/>
-- ArxivMaster: AI-powered Arxiv research companion. (Not Done)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcpham/) 
